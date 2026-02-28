@@ -50,11 +50,11 @@ Repositori ini menggunakan struktur monorepo untuk memisahkan logika backend blo
 
 ### Depedencies Penting
 
-1. **Hardhat 3**: hardhat untuk contract development. docs (hardhat3)[https://hardhat.org/docs]
-2. **Wagmi 3**: wagmi untuk interaksi contract di frontend: docs (wagmi)[https://wagmi.sh/]
+1. **Hardhat 3**: hardhat untuk contract development. docs [hardhat3](https://hardhat.org/docs)
+2. **Wagmi 3**: wagmi untuk interaksi contract di frontend: docs [wagmi](https://wagmi.sh/)
 3. **Next js 16**: untuk frontend development.
-4. **Chainlink VRF 2.5**: untuk automation randomness pemenang lottery. docs (chainlink.vrf)[https://docs.chain.link/vrf]
-5. **Chainlink Automation 2.1**: untuk automation checkup aplikasi. docs (chainlink.automation)[https://docs.chain.link/chainlink-automation]
+4. **Chainlink VRF 2.5**: untuk automation randomness pemenang lottery. docs [chainlink.vrf](https://docs.chain.link/vrf)
+5. **Chainlink Automation 2.1**: untuk automation checkup aplikasi. docs [chainlink.automation](https://docs.chain.link/chainlink-automation)
 
 ## 👤 Author
 
