@@ -47,7 +47,7 @@ Kontrak `Raffle.sol` memiliki alur kerja sebagai berikut:
 1. **Masuk ke directory**
 
 ```bash
-cd smartcontract-lottery/frontend
+cd smartcontract-lottery/contract
 pnpm install
 ```
 
