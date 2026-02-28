@@ -44,13 +44,11 @@ Kontrak `Raffle.sol` memiliki alur kerja sebagai berikut:
 
 ## 🚀 Setup Project
 
-1. **Clone & Install Dependencies:**
+1. **Masuk ke directory**
 
 ```bash
-git clone https://github.com/rizkycahyono97/Blockchain
-cd Blockchain/FreeCodeCamp/Lesson_9_Hardhat_Smart_Contract_Lottery
+cd smartcontract-lottery/frontend
 pnpm install
-
 ```
 
 2. **Konfigurasi Environment:**
