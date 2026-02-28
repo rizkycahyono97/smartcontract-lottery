@@ -1,0 +1,11 @@
+{
+  "RaffleSepoliaModule": {
+    "vRFConsumerBaseV2Plus": "0x9DdfaCa8183c41ad55329BdeeD9F6A8d53168B1B",
+    "entranceFee": "10000000000000000",
+    "keyhash": "0x787d74caea10b2b357790d5b5247c2f63d1d91572a9846f780606e4d953677ae",
+    "subscriptionId": "98755927029536341570247335582674814197115551167947898801574254926203349923490",
+    "callbackGasLimit": 500000,
+    "interval": 60,
+    "enableNativePayment": true
+  }
+}
