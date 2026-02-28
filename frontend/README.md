@@ -19,7 +19,7 @@ Aplikasi ini adalah **Front-End** dari smartcontract **Lottery** memungkinkan pe
 
 | Kategori                     | Teknologi                          |
 | ---------------------------- | ---------------------------------- |
-| **Framework**                | Next.js 15 (App Router)            |
+| **Framework**                | Next.js 16 (App Router)            |
 | **Blockchain Library**       | Wagmi, Viem                        |
 | **Smart Contract Interface** | Solidity (Ethereum Sepolia)        |
 | **Styling**                  | Tailwind CSS, Lucide React (Icons) |
